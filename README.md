@@ -1,14 +1,14 @@
 ## SimpleSliderTH
 
-SimpleSliderTH is a simple and lightweight jQuery Slider plugin which enables you to costomize the look of the slider. You can Fast and easy change size,colors and arrowtypes for the slider. 
+SimpleSliderTH is a simple and lightweight jQuery Slider plugin which enables you to customize the look of the slider. You can Fast and easy change size,colors and arrowtypes for the slider. 
 
 #### Feadtures:
 
 * 4 different arrowsets for sliding through images. 
 ![arrow1](markdownImages/arrow1.png) ![arrow2](markdownImages/arrow2.png) ![arrow3](markdownImages/arrow3.png) ![arrow4](markdownImages/arrow4.png)
-* change between circled and squered highlight "dots"
+* change between circle/square highlight "dots"
 ![dot1](markdownImages/dot1.png) ![dot2](markdownImages/dot2.png)
-* Change colors and size of icons.
+* Change colors and size on the icons.
 * Change fade-inn delay for the images.
 
 #### Basic Usage:
@@ -77,7 +77,7 @@ SimpleSliderTH is a simple and lightweight jQuery Slider plugin which enables yo
     const PINK = "F1B3DB";
     ```
     `sizes:` Use sizes in pixels as seen in the predefined settings.
-    `fadeTime`  This is the time in milliseconds. Fadeing from 0.5 opacity -> 1.
+    `fadeTime`  This is the time in milliseconds. Fades from 0.5 opacity -> 1.
     <br>
 ![settings](markdownImages/settings.gif)
        
